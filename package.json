@@ -1,0 +1,25 @@
+{
+  "name": "selfprojects_webscrap",
+  "version": "1.0.0",
+  "description": "How to Perform Web-Scraping using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinOsti/SelfProjects_WebScrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinOsti/SelfProjects_WebScrap/issues"
+  },
+  "homepage": "https://github.com/AustinOsti/SelfProjects_WebScrap#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
